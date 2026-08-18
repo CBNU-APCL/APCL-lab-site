@@ -123,7 +123,7 @@ alumni:
     - name_kr: "강철웅"
       name_en: "Cheolwoong Kang"
       degree: "박사졸업(2026)"
-      current: "Korea Aerospace Research Institute (KARI)"
+      current: "Hanwha Aerospace"
       photo: "/assets/images/members/KCW-A.png"
       photo_alt: "/assets/images/members/KCW-B.jpg"
 
@@ -150,7 +150,7 @@ alumni:
   - name_kr: "이원구"
     name_en: "Wongu Lee"
     degree: "석사졸업(2019)"
-    current: "LIG Nex1"
+    current: "Hanwha Aerospace"
     photo: "/assets/images/members/LWG.png"
 
   - name_kr: "박수진"
@@ -222,11 +222,11 @@ alumni:
   - name_kr: "이승현"
     name_en: "Seunghyeon Lee"
     degree: "석사졸업(2026)"
-    current: "Chungbuk National University"
+    current: "Defense Agency for Technology and Quality (DTaQ)"
     photo: "/assets/images/members/LSH.png"
 
   - name_kr: "김민상"
     name_en: "Minsang Kim"
     degree: "석사졸업(2026)"
-    current: "Chungbuk National University"
+    current: ""
     photo: "/assets/images/members/KMS.png"
