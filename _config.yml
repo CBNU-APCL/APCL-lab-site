@@ -40,8 +40,8 @@ partners:
     logo: "/assets/images/logo/logo-CBNU.png"
     url: "https://me.chungbuk.ac.kr/"
 
-url: "https://apcl.chungbuk.ac.kr"
-baseurl: "/APCL-lab-site"
+url: "https://apcl.cbnu.ac.kr"
+baseurl: ""
 
 markdown: kramdown
 plugins:
