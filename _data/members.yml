@@ -211,7 +211,9 @@ alumni:
     name_en: "Jinhee Jang"
     degree: "석사졸업(2025)"
     current: "Hyundai Rotem"
-    photo: "/assets/images/members/JJH.png"
+    photo: "/assets/images/members/JJH-A.png"
+    photo_alt: "/assets/images/members/JJH-B.png"
+
 
   - name_kr: "이지원"
     name_en: "Jiwon Lee"
