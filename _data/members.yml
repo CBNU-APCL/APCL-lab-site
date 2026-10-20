@@ -93,6 +93,13 @@ ms_students:
     research: "Experimental study on Rotating Detonation Rocket Engine"
     photo: "/assets/images/members/LJH-A.png"
     photo_alt: "/assets/images/members/LJH-B.png"
+  - name_kr: "한상원"
+    name_en: "Sangwon Han"
+    year: "석사과정 1년차"
+    email: "han5010@cbnu.ac.kr"
+    research: "Research on Injectors for Next-Generation Launch Vehicles(KSLV-III)"
+    photo: "/assets/images/members/NA-M.png"
+    photo_alt: "/assets/images/members/NA-M.png"
 
 # 학부생
 undergrad_students:
@@ -103,6 +110,14 @@ undergrad_students:
     research: "Combustion characteristics of oxidizer-rich preburner using triplex / pintle injector"
     photo: "/assets/images/members/PYH-A.png"
     photo_alt: "/assets/images/members/PYH-B.png"
+
+  - name_kr: "김진솔"
+    name_en: "Jinsol Kim"
+    year: "학부연구생"
+    email: "kjsol@cbnu.ac.kr"
+    research: "Experimental study on Rotating Detonation Rocket Engine"
+    photo: "/assets/images/members/NA-W.png"
+    photo_alt: "/assets/images/members/NA-W.png"
 
 # 졸업생 (선택 사항 - 필요 없으면 이 항목 전체를 지워도 됩니다)
 alumni:
