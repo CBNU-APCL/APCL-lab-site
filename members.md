@@ -108,7 +108,7 @@ permalink: /members/
     {% assign phd_alumni = site.data.members.alumni.phd %}
     {% assign ms_alumni = site.data.members.alumni.ms %}
 
-    <p class="section-sub">직장이 바뀌었거나 증명사진 변경을 원하시는 졸업생은 홈페이지 담당자 {{ site.homepage_manager_name | escape }}(<a href="mailto:{{ site.homepage_manager_email | escape }}">{{ site.homepage_manager_email | escape }}</a>)에게 연락해 주세요.</p>
+    <p class="section-sub">직장 정보가 변경되었거나 증명사진 교체를 희망하는 졸업생께서는 홈페이지 담당자 {{ site.homepage_manager_name | escape }}(<a href="mailto:{{ site.homepage_manager_email | escape }}">{{ site.homepage_manager_email | escape }}</a>)에게 연락해 주시기 바랍니다.</p>
 
     {% if phd_alumni and phd_alumni.size > 0 %}
     <div class="member-group-title">박사 졸업생 / PhD Alumni</div>
