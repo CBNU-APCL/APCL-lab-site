@@ -108,6 +108,8 @@ permalink: /members/
     {% assign phd_alumni = site.data.members.alumni.phd %}
     {% assign ms_alumni = site.data.members.alumni.ms %}
 
+    <p class="section-sub">직장이 바뀌었거나 증명사진 변경을 원하시는 졸업생은 홈페이지 담당자 {{ site.homepage_manager_name | escape }}(<a href="mailto:{{ site.homepage_manager_email | escape }}">{{ site.homepage_manager_email | escape }}</a>)에게 연락해 주세요.</p>
+
     {% if phd_alumni and phd_alumni.size > 0 %}
     <div class="member-group-title">박사 졸업생 / PhD Alumni</div>
     <div class="member-grid">
