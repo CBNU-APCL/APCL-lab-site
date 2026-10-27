@@ -99,7 +99,7 @@ ms_students:
     email: "han5010@cbnu.ac.kr"
     research: "Research on Injectors for Next-Generation Launch Vehicles(KSLV-III)"
     photo: "/assets/images/members/NA-M.png"
-    photo_alt: "/assets/images/members/NA-M.png"
+    photo_alt: "/assets/images/members/HSW2-B.png"
 
 # 학부생
 undergrad_students:
@@ -117,7 +117,7 @@ undergrad_students:
     email: "kjsol@cbnu.ac.kr"
     research: "Experimental study on Rotating Detonation Rocket Engine"
     photo: "/assets/images/members/NA-W.png"
-    photo_alt: "/assets/images/members/NA-W.png"
+    photo_alt: "/assets/images/members/KJS-B.png"
 
 # 졸업생 (선택 사항 - 필요 없으면 이 항목 전체를 지워도 됩니다)
 alumni:
