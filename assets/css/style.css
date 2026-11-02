@@ -492,6 +492,8 @@ h1,h2,h3,h4{
 .prof-list li.highlight{ color: var(--text); font-weight: 600; }
 .prof-list li.highlight::before{ color: var(--flame-2); }
 @media (max-width: 600px){
+  .member-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+  .member-card{ overflow-wrap: anywhere; }
   .prof-card{ grid-template-columns: 140px 1fr; }
 }
 
