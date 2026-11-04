@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Members
+title: 충북대학교 안규복 교수 및 구성원
+description: "충북대학교(충북대) 기계공학부 안규복 교수(Kyubok Ahn)의 학력, 경력 및 고급추진연소연구실(APCL) 구성원을 소개합니다."
 permalink: /members/
 ---
 

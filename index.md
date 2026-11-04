@@ -39,7 +39,8 @@ permalink: /
     <span class="section-eyebrow">Research Interests</span>
     <h2>핵심 연구 주제</h2>
     <p class="section-sub">
-      APCL은 액체로켓 엔진과 가스터빈을 비롯한 추진장치의 분사, 연소, 열유동 현상을 실험과 해석으로 연구합니다.
+      APCL은 충북대학교(충북대) 기계공학부 안규복 교수의 고급추진연소연구실입니다.
+      액체로켓 엔진과 가스터빈을 비롯한 추진장치의 분사, 연소, 열유동 현상을 실험과 해석으로 연구합니다.
     </p>
   </div>
 
