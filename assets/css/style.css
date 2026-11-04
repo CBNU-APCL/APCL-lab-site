@@ -249,7 +249,8 @@ h1,h2,h3,h4{
 }
 .section h2{ font-size: 1.85rem; }
 .section-sub{ color: var(--text-dim); max-width: 920px; margin-top: 8px; }
-.research-intro .section-sub{ max-width: none; }
+.research-intro .section-sub,
+#panel-alumni .section-sub{ max-width: none; }
 
 /* ---------- Research cards ---------- */
 .research-grid{
